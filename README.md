@@ -14,5 +14,5 @@
 
 2022.1.26 add CVE-2021-4034 Linux Polkit 权限提升漏洞
 
-2022.3.4 add CVE-2022-22947 SpringCloud Gateway spel rce
-         利用细节参考P师傅文档
+2022.3.4 add CVE-2022-22947 SpringCloud Gateway spel rce\r\n
+         利用细节参考P师傅文档 [漏洞利用](https://github.com/d-rn/vulhub/blob/master/spring/CVE-2022-22947/README.zh-cn.md)
