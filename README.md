@@ -13,3 +13,6 @@
 2021.12.31 add CVE-2021-43798 grafana任意文件读取漏洞
 
 2022.1.26 add CVE-2021-4034 Linux Polkit 权限提升漏洞
+
+2022.3.4 add CVE-2022-22947 SpringCloud Gateway spel rce
+         利用细节参考P师傅文档
