@@ -16,3 +16,5 @@
 
 2022.3.4 add CVE-2022-22947 SpringCloud Gateway spel rce  
 利用细节参考P师傅文档 [漏洞利用](https://github.com/d-rn/vulhub/blob/master/spring/CVE-2022-22947/README.zh-cn.md)
+
+2022.3.8 add CVE-2022-0847 Dirty Pipe linux内核提权漏洞
