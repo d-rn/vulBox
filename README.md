@@ -21,3 +21,5 @@
 
 2022.3.17 add CVE-2022-22616: Simple way to bypass GateKeeper  
 原文地址：https://jhftss.github.io/CVE-2022-22616-Gatekeeper-Bypass/
+
+2022.3.21 add CVE-2022-0543 Redis Lua 沙盒逃逸 RCE
