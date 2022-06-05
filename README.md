@@ -25,3 +25,5 @@
 2022.3.21 add CVE-2022-0543 Redis Lua 沙盒逃逸 RCE
 
 2022.5.14 add CVE-2022-30525 Zyxel USG FLEX handler 远程命令注入漏洞
+
+2022.6.6 add CVE-2022-26134 Atlassian Confluence远程命令执行漏洞
