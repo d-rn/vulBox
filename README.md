@@ -1,5 +1,10 @@
 # vulBox
-漏洞收集
+### 公众号：
+
+![401SecNote](https://user-images.githubusercontent.com/44894323/186303440-69abdb98-694c-4964-9933-bf024676cdc8.jpg)
+
+
+### 漏洞收集
 
 
 2021.11.16 add CVE-2020-27986_SonarQube_api_未授权访问漏洞检测脚本
