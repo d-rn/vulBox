@@ -24,3 +24,4 @@
 2022.5.14 add CVE-2022-30525 Zyxel USG FLEX handler 远程命令注入漏洞  
 2022.6.6 add CVE-2022-26134 Atlassian Confluence远程命令执行漏洞  
 2022.8.23 add CVE-2022-31793：Arris/Arris-variant DSL/Fiber 路由器路径遍历漏洞  
+2023.5.6 add CVE-2023-27524 Apache Superset Auth Bypass(参考https://github.com/horizon3ai/CVE-2023-27524/tree/main)
